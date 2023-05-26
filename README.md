@@ -1,6 +1,6 @@
 <h1>Complete Application Deployment using Kubernetes Components</h1>
 <h2>Overview</h2>
-In this lab we are going to create an external facing web app which accesses an internal database using MongoDB and Mongo Express. I used Visual Studio Code for .yaml files and Powershell for command line.
+In this lab we are going to create an external facing web app which accesses an internal database using MongoDB and Mongo Express. I used Visual Studio Code for .yaml files, VirtualBox as the Hypervisor, and Powershell for command line.
 <h4>
   What is Kubernetes?<br>
   What is Containerization?<br>
