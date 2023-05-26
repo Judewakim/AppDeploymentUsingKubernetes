@@ -37,8 +37,6 @@ This reference image above shows the flow of communication from the external exp
   kubectl describe service <i>{SERVICENAME}</i><br>
 </h4>
 <br>
-<br>
-<br>
 <h2>Resources Used</h2>
 
 - <b>YouTube:</b> https://www.youtube.com/watch?v=EQNO_kM96Mo
