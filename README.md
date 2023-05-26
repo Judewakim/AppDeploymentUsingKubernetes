@@ -41,4 +41,6 @@ This reference image above shows the flow of communication from the external exp
 <br>
 <h2>Resources Used</h2>
 
-- <b>AWS Resource Center:</b> [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
+- <b>YouTube:</b> https://www.youtube.com/watch?v=EQNO_kM96Mo
+- <b>GitLab:</b> https://gitlab.com/nanuchi/youtube-tutorial-series/-/blob/master/demo-kubernetes-components/k8s-commands.md
+- <b>DockerHub:</b> https://hub.docker.com/search?q=
